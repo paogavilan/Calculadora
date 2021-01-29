@@ -1,6 +1,6 @@
 
-/*alert ("Bienvenidos");*/
-swal("Bienvenidos");
+/*alert ("Bienvenidos");
+swal("Bienvenidos");*/
 
 
 function updateInput(newValue, clear = false) {
